@@ -1,0 +1,2 @@
+#  phpbb2 needs php4 - it will not work with php5
+SetEnv DEFAULT_PHP_VERSION 4

@@ -1,0 +1,5 @@
+{
+  "files.autoSave": "afterDelay",
+  "terminal.integrated.shell.windows": "D:\\Git\\bin\\bash.exe",
+  "emmet.triggerExpansionOnTab": true
+}
